@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1518081886 source:c:\users\willi\documents\code_bloks\snake_avec_direction\main.c
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
